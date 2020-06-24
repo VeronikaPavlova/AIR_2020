@@ -7,7 +7,6 @@ import time
 
 import cv2 as cv
 
-from centroidtracker import CentroidTracker
 
 
 def detectObjects(rgb, depth):
